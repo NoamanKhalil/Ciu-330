@@ -1,0 +1,204 @@
+fileFormatVersion: 2
+guid: d82129ba9aa7e40fb94793a456f39088
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Cabinets
+    100002: CLOSET
+    100004: Cylinder586
+    100006: Cylinder587
+    100008: Cylinder588
+    100010: Cylinder589
+    100012: Cylinder590
+    100014: Cylinder591
+    100016: Cylinder592
+    100018: Cylinder593
+    100020: DAY1_Classroom_Happy_204_080718
+    100022: DAY1_Classroom_Horror_1205_8818
+    100024: FRIDGE
+    100026: Lockers
+    100028: Lockers097
+    100030: Object378
+    100032: Object379
+    100034: Object380
+    100036: Object381
+    100038: Object382
+    100040: Object383
+    100042: Object384
+    100044: Object385
+    100046: SHELF
+    100048: //RootNode
+    100050: TABLE
+    100052: Table2_Class
+    400000: Cabinets
+    400002: CLOSET
+    400004: Cylinder586
+    400006: Cylinder587
+    400008: Cylinder588
+    400010: Cylinder589
+    400012: Cylinder590
+    400014: Cylinder591
+    400016: Cylinder592
+    400018: Cylinder593
+    400020: DAY1_Classroom_Happy_204_080718
+    400022: DAY1_Classroom_Horror_1205_8818
+    400024: FRIDGE
+    400026: Lockers
+    400028: Lockers097
+    400030: Object378
+    400032: Object379
+    400034: Object380
+    400036: Object381
+    400038: Object382
+    400040: Object383
+    400042: Object384
+    400044: Object385
+    400046: SHELF
+    400048: //RootNode
+    400050: TABLE
+    400052: Table2_Class
+    2100000: 'Material #13'
+    2300000: CLOSET
+    2300002: Cylinder586
+    2300004: Cylinder587
+    2300006: Cylinder588
+    2300008: Cylinder589
+    2300010: Cylinder590
+    2300012: Cylinder591
+    2300014: Cylinder592
+    2300016: Cylinder593
+    2300018: FRIDGE
+    2300020: Lockers097
+    2300022: Object378
+    2300024: Object379
+    2300026: Object380
+    2300028: Object381
+    2300030: Object382
+    2300032: Object383
+    2300034: Object384
+    2300036: Object385
+    2300038: SHELF
+    2300040: TABLE
+    3300000: CLOSET
+    3300002: Cylinder586
+    3300004: Cylinder587
+    3300006: Cylinder588
+    3300008: Cylinder589
+    3300010: Cylinder590
+    3300012: Cylinder591
+    3300014: Cylinder592
+    3300016: Cylinder593
+    3300018: FRIDGE
+    3300020: Lockers097
+    3300022: Object378
+    3300024: Object379
+    3300026: Object380
+    3300028: Object381
+    3300030: Object382
+    3300032: Object383
+    3300034: Object384
+    3300036: Object385
+    3300038: SHELF
+    3300040: TABLE
+    4300000: TABLE
+    4300002: CLOSET
+    4300004: SHELF
+    4300006: FRIDGE
+    4300008: Lockers097
+    4300010: Cylinder593
+    4300012: Cylinder592
+    4300014: Cylinder591
+    4300016: Cylinder590
+    4300018: Cylinder589
+    4300020: Cylinder588
+    4300022: Cylinder587
+    4300024: Cylinder586
+    4300026: Object385
+    4300028: Object384
+    4300030: Object383
+    4300032: Object382
+    4300034: Object381
+    4300036: Object380
+    4300038: Object379
+    4300040: Object378
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

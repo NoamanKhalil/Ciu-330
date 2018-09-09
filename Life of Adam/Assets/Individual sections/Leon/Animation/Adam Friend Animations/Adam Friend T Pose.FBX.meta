@@ -1,0 +1,327 @@
+fileFormatVersion: 2
+guid: b851772dd1d914c94a842cb7344113d7
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: AdamRig
+    100004: AdamRigChest
+    100006: AdamRigHead
+    100008: AdamRigLArm1
+    100010: AdamRigLArm1Gizmo
+    100012: AdamRigLArm2
+    100014: AdamRigLArm2Gizmo
+    100016: AdamRigLArmCollarbone
+    100018: AdamRigLArmCollarboneGizmo
+    100020: AdamRigLArmDigit11
+    100022: AdamRigLArmDigit11Gizmo
+    100024: AdamRigLArmDigit12
+    100026: AdamRigLArmDigit12Gizmo
+    100028: AdamRigLArmDigit13
+    100030: AdamRigLArmDigit13Gizmo
+    100032: AdamRigLArmDigit21
+    100034: AdamRigLArmDigit21Gizmo
+    100036: AdamRigLArmDigit22
+    100038: AdamRigLArmDigit22Gizmo
+    100040: AdamRigLArmDigit23
+    100042: AdamRigLArmDigit23Gizmo
+    100044: AdamRigLArmDigit31
+    100046: AdamRigLArmDigit31Gizmo
+    100048: AdamRigLArmDigit32
+    100050: AdamRigLArmDigit32Gizmo
+    100052: AdamRigLArmDigit33
+    100054: AdamRigLArmDigit33Gizmo
+    100056: AdamRigLArmDigit41
+    100058: AdamRigLArmDigit41Gizmo
+    100060: AdamRigLArmDigit42
+    100062: AdamRigLArmDigit42Gizmo
+    100064: AdamRigLArmDigit43
+    100066: AdamRigLArmDigit43Gizmo
+    100068: AdamRigLArmDigit51
+    100070: AdamRigLArmDigit51Gizmo
+    100072: AdamRigLArmDigit52
+    100074: AdamRigLArmDigit52Gizmo
+    100076: AdamRigLArmDigit53
+    100078: AdamRigLArmDigit53Gizmo
+    100080: AdamRigLArmPalm
+    100082: AdamRigLArmPalmGizmo
+    100084: AdamRigLLegAnkle
+    100086: AdamRigLLegCalf
+    100088: AdamRigLLegCalfGizmo
+    100090: AdamRigLLegPlatform
+    100092: AdamRigLLegThigh
+    100094: AdamRigLLegThighGizmo
+    100096: AdamRigNeck
+    100098: AdamRigPelvis
+    100100: AdamRigRArm1
+    100102: AdamRigRArm2
+    100104: AdamRigRArmCollarbone
+    100106: AdamRigRArmDigit11
+    100108: AdamRigRArmDigit12
+    100110: AdamRigRArmDigit13
+    100112: AdamRigRArmDigit21
+    100114: AdamRigRArmDigit22
+    100116: AdamRigRArmDigit23
+    100118: AdamRigRArmDigit31
+    100120: AdamRigRArmDigit32
+    100122: AdamRigRArmDigit33
+    100124: AdamRigRArmDigit41
+    100126: AdamRigRArmDigit42
+    100128: AdamRigRArmDigit43
+    100130: AdamRigRArmDigit51
+    100132: AdamRigRArmDigit52
+    100134: AdamRigRArmDigit53
+    100136: AdamRigRArmPalm
+    100138: AdamRigRLegAnkle
+    100140: AdamRigRLegCalf
+    100142: AdamRigRLegCalfGizmo
+    100144: AdamRigRLegPlatform
+    100146: AdamRigRLegThigh
+    100148: AdamRigRLegThighGizmo
+    100150: AdamRigSpine1
+    100152: AdamRigSpine2
+    100154: AdamRigSpine3
+    100156: CATRigRArmDigit11Gizmo
+    100158: CATRigRArmDigit12Gizmo
+    100160: CATRigRArmDigit13Gizmo
+    100162: CATRigRArmDigit21Gizmo
+    100164: CATRigRArmDigit22Gizmo
+    100166: CATRigRArmDigit23Gizmo
+    100168: CATRigRArmDigit31Gizmo
+    100170: CATRigRArmDigit32Gizmo
+    100172: CATRigRArmDigit33Gizmo
+    100174: CATRigRArmDigit41Gizmo
+    100176: CATRigRArmDigit42Gizmo
+    100178: CATRigRArmDigit43Gizmo
+    100180: CATRigRArmDigit51Gizmo
+    100182: CATRigRArmDigit52Gizmo
+    100184: CATRigRArmDigit53Gizmo
+    100186: Circle001
+    100188: Circle002
+    100190: Circle003
+    100192: Friend
+    100194: Friend_Body
+    100196: Friend_Jersey
+    100198: Friend_LEye
+    100200: Friend_REye
+    100202: Head BoneGizmo
+    100204: Lower Chest  BoneGizmo
+    100206: Neck BoneGizmo
+    100208: Particle View 001
+    100210: Pelvis  BoneGizmo
+    100212: R Elbow BoneGizmo
+    100214: R Forearm BoneGizmo
+    100216: R Palm BoneGizmo
+    100218: R Shoulder BoneGizmo
+    100220: Ribs  BoneGizmo
+    100222: Stomach BoneGizmo
+    100224: Upper Chest  BoneGizmo
+    400000: //RootNode
+    400002: AdamRig
+    400004: AdamRigChest
+    400006: AdamRigHead
+    400008: AdamRigLArm1
+    400010: AdamRigLArm1Gizmo
+    400012: AdamRigLArm2
+    400014: AdamRigLArm2Gizmo
+    400016: AdamRigLArmCollarbone
+    400018: AdamRigLArmCollarboneGizmo
+    400020: AdamRigLArmDigit11
+    400022: AdamRigLArmDigit11Gizmo
+    400024: AdamRigLArmDigit12
+    400026: AdamRigLArmDigit12Gizmo
+    400028: AdamRigLArmDigit13
+    400030: AdamRigLArmDigit13Gizmo
+    400032: AdamRigLArmDigit21
+    400034: AdamRigLArmDigit21Gizmo
+    400036: AdamRigLArmDigit22
+    400038: AdamRigLArmDigit22Gizmo
+    400040: AdamRigLArmDigit23
+    400042: AdamRigLArmDigit23Gizmo
+    400044: AdamRigLArmDigit31
+    400046: AdamRigLArmDigit31Gizmo
+    400048: AdamRigLArmDigit32
+    400050: AdamRigLArmDigit32Gizmo
+    400052: AdamRigLArmDigit33
+    400054: AdamRigLArmDigit33Gizmo
+    400056: AdamRigLArmDigit41
+    400058: AdamRigLArmDigit41Gizmo
+    400060: AdamRigLArmDigit42
+    400062: AdamRigLArmDigit42Gizmo
+    400064: AdamRigLArmDigit43
+    400066: AdamRigLArmDigit43Gizmo
+    400068: AdamRigLArmDigit51
+    400070: AdamRigLArmDigit51Gizmo
+    400072: AdamRigLArmDigit52
+    400074: AdamRigLArmDigit52Gizmo
+    400076: AdamRigLArmDigit53
+    400078: AdamRigLArmDigit53Gizmo
+    400080: AdamRigLArmPalm
+    400082: AdamRigLArmPalmGizmo
+    400084: AdamRigLLegAnkle
+    400086: AdamRigLLegCalf
+    400088: AdamRigLLegCalfGizmo
+    400090: AdamRigLLegPlatform
+    400092: AdamRigLLegThigh
+    400094: AdamRigLLegThighGizmo
+    400096: AdamRigNeck
+    400098: AdamRigPelvis
+    400100: AdamRigRArm1
+    400102: AdamRigRArm2
+    400104: AdamRigRArmCollarbone
+    400106: AdamRigRArmDigit11
+    400108: AdamRigRArmDigit12
+    400110: AdamRigRArmDigit13
+    400112: AdamRigRArmDigit21
+    400114: AdamRigRArmDigit22
+    400116: AdamRigRArmDigit23
+    400118: AdamRigRArmDigit31
+    400120: AdamRigRArmDigit32
+    400122: AdamRigRArmDigit33
+    400124: AdamRigRArmDigit41
+    400126: AdamRigRArmDigit42
+    400128: AdamRigRArmDigit43
+    400130: AdamRigRArmDigit51
+    400132: AdamRigRArmDigit52
+    400134: AdamRigRArmDigit53
+    400136: AdamRigRArmPalm
+    400138: AdamRigRLegAnkle
+    400140: AdamRigRLegCalf
+    400142: AdamRigRLegCalfGizmo
+    400144: AdamRigRLegPlatform
+    400146: AdamRigRLegThigh
+    400148: AdamRigRLegThighGizmo
+    400150: AdamRigSpine1
+    400152: AdamRigSpine2
+    400154: AdamRigSpine3
+    400156: CATRigRArmDigit11Gizmo
+    400158: CATRigRArmDigit12Gizmo
+    400160: CATRigRArmDigit13Gizmo
+    400162: CATRigRArmDigit21Gizmo
+    400164: CATRigRArmDigit22Gizmo
+    400166: CATRigRArmDigit23Gizmo
+    400168: CATRigRArmDigit31Gizmo
+    400170: CATRigRArmDigit32Gizmo
+    400172: CATRigRArmDigit33Gizmo
+    400174: CATRigRArmDigit41Gizmo
+    400176: CATRigRArmDigit42Gizmo
+    400178: CATRigRArmDigit43Gizmo
+    400180: CATRigRArmDigit51Gizmo
+    400182: CATRigRArmDigit52Gizmo
+    400184: CATRigRArmDigit53Gizmo
+    400186: Circle001
+    400188: Circle002
+    400190: Circle003
+    400192: Friend
+    400194: Friend_Body
+    400196: Friend_Jersey
+    400198: Friend_LEye
+    400200: Friend_REye
+    400202: Head BoneGizmo
+    400204: Lower Chest  BoneGizmo
+    400206: Neck BoneGizmo
+    400208: Particle View 001
+    400210: Pelvis  BoneGizmo
+    400212: R Elbow BoneGizmo
+    400214: R Forearm BoneGizmo
+    400216: R Palm BoneGizmo
+    400218: R Shoulder BoneGizmo
+    400220: Ribs  BoneGizmo
+    400222: Stomach BoneGizmo
+    400224: Upper Chest  BoneGizmo
+    2100000: 01 - Default
+    2100002: 02 - Default
+    2100004: 'Material #21'
+    2300000: Friend_LEye
+    2300002: Friend_REye
+    3300000: Friend_LEye
+    3300002: Friend_REye
+    4300000: Friend_Jersey
+    4300002: Friend_Body
+    4300004: Friend_LEye
+    4300006: Friend_REye
+    7400000: Adam Friend T-Pose
+    9500000: //RootNode
+    13700000: Friend_Body
+    13700002: Friend_Jersey
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
